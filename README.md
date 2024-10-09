@@ -2,7 +2,7 @@
 
 **Stock Savings Calculator** is a Go-based application designed to help you track the value of your stock investments over time. By fetching stock and forex data from [Polygon.io](https://polygon.io), the calculator estimates the value of your investments in your local currency and provides detailed weekly and total reports.
 
-**Remember, that these are past results and may not 
+**Remember, that these are past results and do not predict future data. Be careful!**
 
 ## Table of Contents
 
