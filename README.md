@@ -73,14 +73,15 @@ All configurations can be passed via command line arguments. Make sure to provid
 ## Project Structure
 
 ```
-.vscode/
-    └── launch.json
 api/
     └── polygon.go
 go.mod
 main.go
 models/
     └── stock_data.go
+.gitignore
+LICENSE.md
+README.md
 ```
 
 - **`.vscode/launch.json`**: Visual Studio Code configuration for debugging.
